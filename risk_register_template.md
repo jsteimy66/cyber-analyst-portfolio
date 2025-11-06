@@ -1,4 +1,4 @@
-﻿# Simple Risk Register â€” [Project / App]
+﻿# Simple Risk Register ” [Project / App]
 
 | Asset | Threat | Likelihood (L/M/H) | Impact (L/M/H) | Risk Rating | Controls | Action Owner |
 |-------|--------|--------------------:|---------------:|------------:|---------|-------------:|
