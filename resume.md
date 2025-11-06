@@ -1,6 +1,6 @@
-﻿# Resume â€” Target: SOC / Jr. Analyst
+﻿# Resume ” Target: SOC / Jr. Analyst
 
-[Your Name] â€” [City, Country] â€” [email] â€” [phone] â€” GitHub: https://github.com/jstei
+[Your Name] ” [City, Country] ” [email] ” [phone] ” GitHub: https://github.com/jstei
 
 Summary
 - Entry-level cybersecurity analyst with foundational experience in Linux, log analysis, Splunk, and incident response.
