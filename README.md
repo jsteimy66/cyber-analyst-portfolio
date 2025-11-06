@@ -1,4 +1,4 @@
-﻿# Cyber Analyst Portfolio ” [Joe Steimel]
+﻿# Cyber Analyst Portfolio ” Joe Steimel
 This repository contains learning artifacts and lab writeups for my journey to become a SOC/Incident Response Analyst.
 
 Contents
