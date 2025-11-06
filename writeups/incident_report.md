@@ -1,4 +1,4 @@
-﻿# Incident Report â€” [Title / Lab Name]
+﻿# Incident Report  [Title / Lab Name]
 
 ## Summary
 - Date: YYYY-MM-DD
