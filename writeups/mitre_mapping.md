@@ -1,4 +1,4 @@
-﻿# MITRE ATT&CK Mapping â€” Example
+﻿# MITRE ATT&CK Mapping Example
 
 Tactic: Initial Access
 - Phishing (T1566) -> Monitor email gateway logs for attachments with executable content.
