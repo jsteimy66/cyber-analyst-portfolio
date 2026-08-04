@@ -6,7 +6,7 @@
 - Affected assets: (list)
 
 ## Timeline
-- Timestamps (UTC) â€” events from detection to containment
+- Timestamps (UTC) events from detection to containment
 
 ## Investigation & Evidence
 - Artifacts collected: PCAP, event logs, file hashes
