@@ -7,8 +7,7 @@ Contents
   - lab_writeups.md ” various TryHackMe/CTF writeups
   - splunk_searches.md ” example Splunk searches and dashboards
   - mitre_mapping.md ” mapping of ATT&CK techniques to detections
-  - /tools
-  - scripts/ ” Python and PowerShell helpers for log parsing
+  - /tools/scripts/ ” Python and PowerShell helpers for log parsing
 
 How to use
 - Read the write-ups in /writeups to see labs and lessons learned.
