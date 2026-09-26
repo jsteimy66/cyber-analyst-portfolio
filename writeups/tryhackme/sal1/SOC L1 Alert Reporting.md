@@ -1,4 +1,4 @@
-#b  SOC L1 Alert Reporting- TryHackMe
+# SOC L1 Alert Reporting- TryHackMe
 
 ## Objective
 Learn how to properly report, escalate, and communicate high-risk security alerts in a SOC environment.
